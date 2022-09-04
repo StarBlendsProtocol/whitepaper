@@ -1,0 +1,18 @@
+# Table of contents
+
+* [🌠 About Star Blend Protocol](README.md)
+* [🪙 Tokenomics](tokenomics.md)
+* [🏆 Features](features.md)
+* [🛣 Roadmap](roadmap.md)
+* [🔐 Security](security.md)
+* [🌱 Seed Sale](seed-sale.md)
+* [🎁 Presale](presale.md)
+* [🥩 Staking Platform](staking-platform.md)
+* [💥 NFT Collection](nft-collection.md)
+* [🎭 NFT Platform & White Label Service](nft-platform-and-white-label-service.md)
+* [📈 Star Blend Launchpad & DEX](star-blend-launchpad-and-dex.md)
+* [🎙 Socials](socials.md)
+* [🌏 Community](community.md)
+* [👽 Team](team.md)
+* [🤝 Partnerships](partnerships.md)
+* [📰 Press Release](press-release.md)
